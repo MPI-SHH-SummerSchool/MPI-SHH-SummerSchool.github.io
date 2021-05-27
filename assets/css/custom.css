@@ -154,3 +154,20 @@
         display: grid;
     }
 }
+
+#gdpr{
+    display: none;
+    margin-top: 32px;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.btn-gdpr{
+    margin-right: 16px;
+
+}
